@@ -1,8 +1,8 @@
-# Android Prework - *Intro App*
+# Android Prework - *Introductory App*
 
 Submitted by: **Kadeeja Abubaker**
 
-**Intro App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Introductory App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Image, message, background, and button colors change once button clicked
+* [x] Image, text, background, and button colors change once button clicked
 
 ## Video Walkthrough
 
