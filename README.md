@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Image, message, background, and button colors change once button clicked
 
 ## Video Walkthrough
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Adroid Studio was pretty slow throughout project development and lagged a lot, creating some frustration.
 
 ## License
 
