@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="intro">Hello! My name is Kadeeja and I love computer science.</string>
+    <string name="button">SAY HELLO</string>
+    <string name="Button_clicked">Button clicked</string>
+    <string name="response">Hello!</string>
+</resources>
